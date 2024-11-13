@@ -76,7 +76,7 @@ This script does not collect or transmit any personal information. It only modif
 ## License
 -------
 
-This script is released under the MIT License. See  for details.
+This script is released under the MIT License. See [text](LICENSE) for details.
 
 ## Acknowledgements
 ---------------
